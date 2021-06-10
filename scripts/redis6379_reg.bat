@@ -4,7 +4,7 @@ set CURR_DIR=%~dp0
 
 cd /D %CURR_DIR%
 
-7z x ..\zips\Redis-x64-5.0.10.zip -o%INSTALL_PATH% -aoa
+7z x ..\zips\Redis-x64-5.0.10.7z -o%INSTALL_PATH% -aoa
 cd %INSTALL_PATH%
 set R6379PATH=%~dp0
 echo %R6379PATH%
