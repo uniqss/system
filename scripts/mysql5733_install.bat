@@ -45,12 +45,12 @@ net start mysql
 
 
 
-@echo off
+rem @echo off
 echo alter user 'root'@'localhost' identified by 'toorex';
 echo commit;
 echo flush privileges;
 echo exit;
-@echo on
+rem @echo on
 
 
 
