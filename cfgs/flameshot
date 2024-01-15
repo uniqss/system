@@ -1,0 +1,15 @@
+[General]
+contrastOpacity=76
+startupLaunch=true
+checkForUpdates=true
+savePath=C:/Users/uniqs/Pictures
+buttons=@Variant(\0\0\0\x7f\0\0\0\vQList<int>\0\0\0\0\x1\0\0\0\a)
+copyOnDoubleClick=true
+drawColor=#ff0000
+saveAfterCopy=true
+
+[Shortcuts]
+TYPE_MARKER=
+TYPE_PENCIL=E
+TYPE_CIRCLECOUNT=M
+TYPE_PIN=P
